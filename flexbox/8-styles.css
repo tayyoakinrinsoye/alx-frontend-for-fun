@@ -359,7 +359,7 @@
   .section-hero .section-inner {
     display: flex;
     flex-direction: column;
-    align-items: flex-end;
+    align-items: flex-start;
     justify-content: center;
     min-height: 50vh;
   }
