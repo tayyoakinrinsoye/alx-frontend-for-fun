@@ -629,11 +629,11 @@
     height: auto;
   }
 
-  .post-content p:first-child {
+  .post-content + p {
     font-size: var(--font-size-x-large);
   }
 
-  .post-content img-caption {
+  .post-content .img-caption {
     margin: 1rem 0;
     padding: 0 .5rem;
     font-size: var(--font-size-small);
